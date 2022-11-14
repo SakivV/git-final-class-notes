@@ -7,3 +7,7 @@
 # Terraform Students
 1. Sameer
 2. Ashwini
+
+# AWS Students
+1. Rob
+2. Victor
