@@ -7,3 +7,9 @@
 # Terraform Students
 1. Sameer
 2. Ashwini
+
+# AWS Students
+1. Ganesh
+2. Ashwini
+3. Akash
+4. Avinash
